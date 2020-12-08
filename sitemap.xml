@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>andike82.github.io.hugo/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>andike82.github.io.hugo/posts/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>andike82.github.io.hugo/posts/weg/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>andike82.github.io.hugo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>andike82.github.io.hugo/tags/</loc>
+  </url>
+  
+</urlset>
