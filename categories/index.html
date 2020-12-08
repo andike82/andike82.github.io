@@ -11,7 +11,7 @@
 <meta name="referrer" content="no-referrer-when-downgrade">
 
 <title>Categories - Ein- und Ansichten von andike82</title>
-<meta name="description" content="">
+<meta name="description" content="Ein- und Ansichten von andike82">
 
 <link rel="alternate" type="application/rss+xml" href="https://andike82.github.io/categories/index.xml" title="Ein- und Ansichten von andike82" />
 <link rel="icon" type="image/x-icon" href="https://andike82.github.io/favicon.ico">
@@ -37,17 +37,42 @@
 
 
 
+    
+
+
+
+
+
+    
+        <link rel="stylesheet" href="https://andike82.github.io/css/my.css?rnd=1607458397">
+    
+
+
+
+
+    
+
+
+
+
+
+    
+        <script src="https://andike82.github.io/js/main.js?rnd=1607458397" type="text/javascript" charset="utf-8"></script>
+    
 
 
 <meta property="og:title" content="Categories" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Ein- und Ansichten von andike82" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://andike82.github.io/categories/" />
+<meta property="og:image" content="https://andike82.github.io/images/og-featured.png"/>
 
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://andike82.github.io/images/og-featured.png"/>
+
 <meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Ein- und Ansichten von andike82"/>
 
 
 
@@ -68,7 +93,12 @@
     <a href="/">Ein- und Ansichten von andike82</a>
 </h1>
 
-    <nav></nav>
+    <nav>
+        
+        
+        <a class="" href="https://andike82.github.io/posts/" title="Archive">Archive</a>
+        
+    </nav>
 
 
             
@@ -95,14 +125,83 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p>© 2020<br>
+            <p>© andike82, 2020<br>
             Powered by <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, theme <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.
             </p>  
         </div> 
 
         
 
+    
 
+
+
+    <button class="theme-switcher">
+        Dark theme
+    </button>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Light theme" : "Dark theme"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
    
     </div>
 </footer>
