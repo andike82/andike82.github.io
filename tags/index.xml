@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ein- und Ansichten von andike82</title>
-    <link>andike82.github.io.hugo/tags/</link>
+    <link>https://andike82.github.io/tags/</link>
     <description>Ein- und Ansichten von andike82 (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     
-    <atom:link href="andike82.github.io.hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andike82.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
