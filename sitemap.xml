@@ -1,68 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://andike82.github.io/</loc>
-    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://andike82.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://andike82.github.io/posts/oma/</loc>
-    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://andike82.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://andike82.github.io/posts/</loc>
-    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/neujahrsvorsatz/</loc>
-    <lastmod>2013-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/schlafenszeit/</loc>
-    <lastmod>2013-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/wahrheitsiegt/</loc>
-    <lastmod>2013-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/advent/</loc>
-    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/gutenacht/</loc>
-    <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/konsumzeit/</loc>
-    <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/weihnachtsfeier/</loc>
-    <lastmod>2013-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/posts/weg/</loc>
-    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
