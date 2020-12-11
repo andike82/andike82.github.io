@@ -308,6 +308,36 @@
   </url>
   
   <url>
+    <loc>https://andike82.github.io/en/gallery/cartoon/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/cartoon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/en/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/"
+                />
+  </url>
+  
+  <url>
     <loc>https://andike82.github.io/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
