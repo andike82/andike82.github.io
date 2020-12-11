@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/</loc>
+    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/</loc>
+    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/oma/</loc>
+    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/neujahrsvorsatz/</loc>
+    <lastmod>2013-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/schlafenszeit/</loc>
+    <lastmod>2013-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/wahrheitsiegt/</loc>
+    <lastmod>2013-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/advent/</loc>
+    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/gutenacht/</loc>
+    <lastmod>2013-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/konsumzeit/</loc>
+    <lastmod>2013-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/weihnachtsfeier/</loc>
+    <lastmod>2013-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/de/posts/weg/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/en/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/tags/"
+                />
+  </url>
+  
+</urlset>
