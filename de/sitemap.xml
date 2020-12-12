@@ -93,13 +93,13 @@
   </url>
   
   <url>
-    <loc>https://andike82.github.io/de/posts/oma/</loc>
-    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+    <loc>https://andike82.github.io/de/posts/eltern/</loc>
+    <lastmod>2013-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andike82.github.io/de/posts/</loc>
-    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2013-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,6 +110,11 @@
                 hreflang="de"
                 href="https://andike82.github.io/de/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/posts/oma/</loc>
+    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
