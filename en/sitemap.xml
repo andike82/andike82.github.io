@@ -290,6 +290,16 @@
   <url>
     <loc>https://andike82.github.io/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/cartoon/"
+                />
   </url>
   
   <url>
@@ -310,6 +320,16 @@
   <url>
     <loc>https://andike82.github.io/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/photo/"
+                />
   </url>
   
   <url>
@@ -340,11 +360,31 @@
   <url>
     <loc>https://andike82.github.io/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/archive/"
+                />
   </url>
   
   <url>
     <loc>https://andike82.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/about/"
+                />
   </url>
   
   <url>

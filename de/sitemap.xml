@@ -18,13 +18,48 @@
   </url>
   
   <url>
-    <loc>https://andike82.github.io/de/archive/_index.ko/</loc>
+    <loc>https://andike82.github.io/de/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/archive/"
+                />
   </url>
   
   <url>
     <loc>https://andike82.github.io/de/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/gallery/photo/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/gallery/photo/"
+                />
   </url>
   
   <url>
@@ -43,13 +78,18 @@
   </url>
   
   <url>
-    <loc>https://andike82.github.io/de/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andike82.github.io/de/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/gallery/cartoon/"
+                />
   </url>
   
   <url>
