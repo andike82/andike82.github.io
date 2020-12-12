@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://andike82.github.io/de/de/posts/</loc>
+    <lastmod>2013-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andike82.github.io/de/de/posts/neujahrsvorsatz/</loc>
     <lastmod>2013-12-26T00:00:00+00:00</lastmod>
   </url>
@@ -102,6 +107,39 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://andike82.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/tags/index/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://andike82.github.io/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/posts/"
                 />
   </url>
   
