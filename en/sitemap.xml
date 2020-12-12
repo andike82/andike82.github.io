@@ -17,11 +17,6 @@
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://andike82.github.io/de/"
                 />
@@ -57,11 +52,6 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://andike82.github.io/de/posts/"
                 />
@@ -87,11 +77,6 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://andike82.github.io/de/tags/"
                 />
@@ -115,11 +100,6 @@
   <url>
     <loc>https://andike82.github.io/en/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -155,11 +135,6 @@
   <url>
     <loc>https://andike82.github.io/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/series/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -313,6 +288,31 @@
   </url>
   
   <url>
+    <loc>https://andike82.github.io/en/gallery/cartoon/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/en/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/en/gallery/photo/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andike82.github.io/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
@@ -340,31 +340,11 @@
   <url>
     <loc>https://andike82.github.io/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andike82.github.io/en/archive/"
-                />
   </url>
   
   <url>
     <loc>https://andike82.github.io/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andike82.github.io/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andike82.github.io/en/about/"
-                />
   </url>
   
   <url>
