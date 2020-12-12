@@ -138,6 +138,46 @@
   </url>
   
   <url>
+    <loc>https://andike82.github.io/de/categories/</loc>
+    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/categories/gedicht/</loc>
+    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/tags/</loc>
+    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andike82.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andike82.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andike82.github.io/de/tags/weihnachten/</loc>
+    <lastmod>2013-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andike82.github.io/de/posts/gutenacht/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -155,20 +195,6 @@
   <url>
     <loc>https://andike82.github.io/de/posts/weg/</loc>
     <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andike82.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://andike82.github.io/de/categories/"
-                />
   </url>
   
   <url>
@@ -196,20 +222,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://andike82.github.io/de/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://andike82.github.io/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andike82.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://andike82.github.io/de/tags/"
                 />
   </url>
   
