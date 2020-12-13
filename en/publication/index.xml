@@ -11,6 +11,8 @@
     <description>Recent content in Publications on Mindings from andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>article</title>
         <link>https://andike82.github.io/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://andike82.github.io/en/publication/article/</guid>
         <description></description>
@@ -42,7 +44,7 @@
         <title>book</title>
         <link>https://andike82.github.io/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://andike82.github.io/en/publication/book/</guid>
         <description></description>
@@ -60,7 +62,7 @@
         <title>misc</title>
         <link>https://andike82.github.io/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://andike82.github.io/en/publication/misc/</guid>
         <description></description>

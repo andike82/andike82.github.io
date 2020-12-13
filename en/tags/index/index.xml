@@ -11,6 +11,8 @@
     <description>Recent content in index on Mindings from andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://andike82.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +25,7 @@
         <title>Posts</title>
         <link>https://andike82.github.io/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         
         <guid>https://andike82.github.io/en/posts/</guid>
         <description></description>

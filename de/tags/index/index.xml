@@ -11,6 +11,8 @@
     <description>Recent content in index on Aus- und Einsichten von andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://andike82.github.io/de/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +25,7 @@
         <title>Posts</title>
         <link>https://andike82.github.io/de/posts/</link>
         <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         
         <guid>https://andike82.github.io/de/posts/</guid>
         <description></description>

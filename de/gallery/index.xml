@@ -11,6 +11,8 @@
     <description>Recent content in Galleries on Aus- und Einsichten von andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Foto</title>
         <link>https://andike82.github.io/de/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://andike82.github.io/de/gallery/photo/</guid>
         <description></description>
@@ -42,7 +44,7 @@
         <title>Cartoon</title>
         <link>https://andike82.github.io/de/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://andike82.github.io/de/gallery/cartoon/</guid>
         <description></description>

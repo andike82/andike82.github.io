@@ -11,6 +11,8 @@
     <description>Recent content in book on Mindings from andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
         <link>https://andike82.github.io/en/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
         <guid>https://andike82.github.io/en/publication/book/book_any_folder_name_1/</guid>
         <description></description>

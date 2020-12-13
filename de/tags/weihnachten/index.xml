@@ -11,6 +11,8 @@
     <description>Recent content in Weihnachten on Aus- und Einsichten von andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 13 Dec 2013 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Advent</title>
         <link>https://andike82.github.io/de/posts/advent/</link>
         <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Fri, 13 Dec 2013 00:00:00 +0000</atom:modified>
         <guid>https://andike82.github.io/de/posts/advent/</guid>
         <description>Ist die erste Kerze mal entfacht,
@@ -33,8 +35,7 @@ Dann dauerts nicht mehr lange
 und der Dritten wird schon bange
 Die Vierte verbreitet Kunde,
 ein frohes Fest geht um die Runde.
-Übers Christkind waren wir glücklich und zufrieden,
-derweil sind die Kerzen von uns geschieden.</description>
+Übers Christkind waren wir glücklich und zufrieden,</description>
         
         <dc:creator>andike82</dc:creator>
         

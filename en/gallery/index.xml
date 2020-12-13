@@ -11,6 +11,8 @@
     <description>Recent content in Galleries on Mindings from andike82</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>andike82@gmail.com (andike82)</managingEditor>
+    <webMaster>andike82@gmail.com (andike82)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Cartoon</title>
         <link>https://andike82.github.io/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://andike82.github.io/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
@@ -42,7 +44,7 @@
         <title>Photo</title>
         <link>https://andike82.github.io/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        
+        <author>andike82@gmail.com (andike82)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://andike82.github.io/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
